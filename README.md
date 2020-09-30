@@ -5,6 +5,8 @@ Author : Shubham Agrawal
 Roll no: 2019201085
 Institute: IIIT-Hyderabad
 
+![Searching in Wiki search engine](wiki_search.png) 
+
 
 # 1. Index Creation:
 --------------------
