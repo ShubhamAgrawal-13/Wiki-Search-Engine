@@ -1,0 +1,25 @@
+10, b:Terence i:Fields Medal
+5, b:sweden r:Pluxemburg
+10, b:Amiata c:Companies based in Florence
+10, Nolan Sisters 1979
+5, b:Redmond i:Los Angeles Kings c:1965 births
+20, Blade Runner
+10, String Quartet 14 Dvorak
+20, t:Commonwealth Games i:melbourne b:Stolenwealth c:sports
+10, i:school t:shahid
+10, b:William Owen c:English songwriters
+10, t:1968 France rugby union tour b:australia
+20, t:J. F. Drake Middle School
+20, Vrapci
+5, b:Vendetta c:Films about fascism
+10, t:Combat i:konami
+20, t:NFL quarterbacks b:passer rating
+10, Wong-fat
+10, b:level 42
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik
