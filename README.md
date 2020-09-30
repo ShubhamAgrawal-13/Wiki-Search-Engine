@@ -1,9 +1,7 @@
 # Wiki Search Engine
 
 
-Author : Shubham Agrawal
-Roll no: 2019201085
-Institute: IIIT-Hyderabad
+Author : __Shubham Agrawal__  Institute: __IIIT-Hyderabad__
 
 ![Searching in Wiki search engine](wiki_search.png) 
 
