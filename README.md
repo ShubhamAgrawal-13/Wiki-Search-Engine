@@ -11,7 +11,7 @@ Institute: IIIT-Hyderabad
 # 1. Index Creation:
 --------------------
 1. __Indexing__ - Created posting list for each word in documents.
-2. __Merging__ - Wile merging, done multi-level indexing and created secondary index for fast searching. 
+2. __Merging__ - While merging, done multi-level indexing and created secondary index for fast searching. 
 
 Threshold for index creation is __26,000 documents__.
 
